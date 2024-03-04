@@ -1,0 +1,16 @@
+*{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: #444;
+}
+.grid-item{
+    width : 200px;
+    padding : 2px;
+
+    img{
+        width : 100%;
+    }
+}
+body{
+    background-color: white;
+}
